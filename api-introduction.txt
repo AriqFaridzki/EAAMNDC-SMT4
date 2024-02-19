@@ -21,5 +21,9 @@ arsitektur Apis
 Rest : Representaional state protocol
 SOAP : simple object access Protocol
 GraphQL : graph Query Langguage
-WebHooks : 
+WebHooks : event-driven interface
 gRPC : google Remote Procedural Call
+
+
+https://core.telegram.org/bots/webhooks
+https://acopen.umsida.ac.id/index.php/acopen/article/view/7138/1976
