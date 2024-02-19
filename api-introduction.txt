@@ -1,0 +1,25 @@
+what is an API?
+just a collection of protocol
+
+agar antara aplikasi bisa berkomunikasi, dulu itu seperti function tapi bisa dipakai oleh yang lain.
+
+client -> (contains Request to ) api -> api Server
+api Server -> api -> (contains Response to ) -> client
+
+gambaran cycle request dan response
+
+history of APIs
+types of APIs
+- private
+- public
+- partner 
+
+https://www.postman.com/what-is-an-api/
+
+arsitektur Apis
+
+Rest : Representaional state protocol
+SOAP : simple object access Protocol
+GraphQL : graph Query Langguage
+WebHooks : 
+gRPC : google Remote Procedural Call
