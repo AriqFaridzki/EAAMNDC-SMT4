@@ -1,0 +1,13 @@
+Container Introduction
+
+sebuah sistem yang terisolasi secara virtual ditujukan untuk software stack *devStack (app servers, database, load balancers, etc)
+
+Things to do :
+
+container engine
+why container different from virtual machine
+virtual machine and container jenis jenisnya
+container type : app container vs system container
+system container : model container yang berjalan sebagai system
+
+
