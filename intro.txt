@@ -1,0 +1,23 @@
+pengantar kecerdasan buatan - luger
+introduction to artificial intelegence
+
+alexmet deep learning
+
+boston dynamics
+voiceTra Realtime machine Translation.
+DeepMind Alpha Go
+Neural Machine Translation NMT
+
+
+suatu upaya untuk menduplikasi cara kerja otak
+
+AI biasanya mengerjakan satu spesifik task, speerti mengenali anggur dan jeruk saja.
+AI tidak bisa menggabungkan 2 domain knowledge yang berbeda, karena dia hanya bisa spesifik saja kecuali kita bekali seperti itu
+
+deep learning ini membuat ciri ciri sendiri dari input yang diberikan, karena sebelumnya harus diberi ciri ciri *feature itu.
+
+
+things to do
+apa itu model? dalam konteks AI
+motor inferensi, dan basis pengetahuan : setiap app AI memiliki 2 garis besar yaitu
+konsep konsep simbolik dalam ai, heuristik
