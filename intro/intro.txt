@@ -1,0 +1,37 @@
+silabus
+
+dasar keamanan jaringan
+teknik teknik penyerangan
+pengamanan jaringan.
+
+- keamanan password
+sniffing - DOs
+keamanan wireless
+dasar kriptografi & lanjut
+autentikasi & vpn
+firewall
+IDS
+digital forensik
+
+
+absensi 10%
+tugas 20%
+    - quiz
+    - PAPARAN KELOMPOK
+    - TUGAS TAMBAHAN
+uts 30%
+uas 40%
+
+
+jika nilai kurang nilainya, maka bisa meminta tugas tambahan.
+jika izin dihitung 1/2 hari, kalau 2x izin maka menjadi 1 hari.
+
+HP DICKY DI LACI!!!! 
+Mending kerumah ane bang, wifi kecengss
+libur besok
+
+things to do : 
+data Center Tier explained
+business inteligence
+
+4 motif kejahatan : karena ekonomi, sosial, politik, dan kepentingan negara.
