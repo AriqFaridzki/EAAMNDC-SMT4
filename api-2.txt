@@ -1,0 +1,44 @@
+## API Architecture
+kerangka atau principle, practice, and pattern that guide the design development, deployment, and maintenance of API
+
+### Struktur Api itu sendiri
+dulu api itu berbentuk shared library (DLL) dan sekarang ada berbentuk web seperti (REST)
+
+#### Common API Protocol
+##### GraphQL : 
+    * simple, mengambil hnya seperlunya
+    * kayak query aja,jadi lebih gampang
+    * untuk penggunaan data yang sangat banyak dan kompleks	 
+##### REST ( Representational State Protocol) ( dibuat dari Protocol HTTP) ; 
+    * setiop node merepresentaiskan sebagai entitas js atau apapun ya : XML
+##### SOAP  (Simple Object Access Protocol) 
+    * Used to be Web Service prototocol
+    * A Messaging Protocol implemented in HTTP and SMTP
+    * Masih digunakan karena fleksibilitas dan sudah standar.
+    * susah dipelajari 	 
+##### Socket 
+    * API Antar Komputer paling Low Level ( primitif )
+    * Api yang dapat dipanggil komputer lain
+##### WebSocket
+    * perkembangan dari protokol http
+    * Socket Running on top of the Web Protocol
+    * long lived connection between client and a server
+    * allows data to be sent and received asycnhronously tanpa overhead yang gede setiap kali establish new connection
+    * jadi sekali saja cukup overheadnya dikirim, sampai koneksi mati?
+    * Full Duplex Communication.
+##### RPC ( Remote Procedure Call)
+    * External Data Representation Protocol adalah Sebuah Document seperti objek skemanya
+##### gRPC ( Google Remote Procedure Call)
+    * Dikirim Melalui ProtoBuff?
+    * Komunikasi antar Client dan server secara simple and efficient protocol
+    * Ideal For Backend to Backend Commns
+    * Ngirim Image Mudah
+
+##### MsgPzh
+    * Ideal For data efficient dalam bentuk objek yang sudah siap untuk digunakan bahasa pemrograman lain
+    * Open standard for compact binary data serialization
+##### SSE ( Server Sent Events)
+    * untuk aplikasi yang membutuhkan inisiasi dari server
+    * untuk server yang bisa push data ke cient tanpa membutuhkan client to send request
+    * often used for streaming updates
+    * agar tahu klo client itu aktif, sehingga server nanti bisa memberikan data tanpa harus merequest langsung ( jadinya otomatis )
